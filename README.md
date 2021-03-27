@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bashar Al-Fatly.
-- 👀 I’m interested in Network Engineering, NetDevOps.
-- 🌱 I’m currently learning DC, Cloud and NetDevOps.
+- 👀 I’m interested in Network Engineering, Network Automation and NetDevOps.
+- 🌱 I’m currently learning DC, Cloud, Network Automation and NetDevOps.
 - 💞️ I’m looking to collaborate on anything related to NetDevOps and Network Reliabity Engineering.
 - 📫 How to reach me at my Email: bashar.m.alfatly@gmail.com and LinkedIn: https://www.linkedin.com/in/ebashar
 
